@@ -8,10 +8,6 @@
   	Originated from <a href="https://github.com/folke/tokyonight.nvim/tree/main/extras/yazi">folke/tokyonight.nvim</a>
 </h3>
 
-## 👀 Preview
-
-<img src="preview.png" width="600" />
-
 ## 🎨 Installation
 
 <!-- Please replace "username/example" with your repository name. -->
