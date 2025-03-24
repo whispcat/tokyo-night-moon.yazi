@@ -4,7 +4,8 @@
 
 <h3 align="center">
 	Tokyo Night Flavor for <a href="https://github.com/sxyazi/yazi">Yazi</a>
-  Originated from https://github.com/folke/tokyonight.nvim/tree/main/extras/yazi
+	<br> <br>
+  	Originated from <a href="https://github.com/folke/tokyonight.nvim/tree/main/extras/yazi">folke/tokyonight.nvim</a>
 </h3>
 
 ## 👀 Preview
