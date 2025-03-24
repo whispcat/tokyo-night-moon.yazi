@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">
-	Tokyo Night Flavor for <a href="https://github.com/sxyazi/yazi">Yazi</a>
+	Tokyo Night Moon Flavor For <a href="https://github.com/sxyazi/yazi">Yazi</a>
 	<br> <br>
   	Originated from <a href="https://github.com/folke/tokyonight.nvim/tree/main/extras/yazi">folke/tokyonight.nvim</a>
 </h3>
@@ -17,7 +17,7 @@
 <!-- Please replace "username/example" with your repository name. -->
 
 ```sh
-ya pack -a whispcat/tokyo-night
+ya pack -a whispcat/tokyo-night-moon
 ```
 
 ## ⚙️ Usage
@@ -26,7 +26,7 @@ To set it as your dark flavor, change the content of your `theme.toml` to:
 
 ```toml
 [flavor]
-dark = "example"
+dark = "tokyo-night-moon"
 ```
 
 Make sure your `theme.toml` doesn't contain anything other than `[flavor]`, unless you want to override certain styles of this flavor.
