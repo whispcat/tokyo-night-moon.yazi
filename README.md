@@ -17,7 +17,7 @@
 <!-- Please replace "username/example" with your repository name. -->
 
 ```sh
-ya pack -a whispcat/tokyo-night.yazi
+ya pack -a whispcat/tokyo-night
 ```
 
 ## ⚙️ Usage
