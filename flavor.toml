@@ -41,7 +41,7 @@ unset_alt   = { fg = "#fca7ea", bg = "#3b4261" }
 
 [status]
 sep_left  = { open = "", close = "" }
-sep_right = { open = "", close = "" }
+sep_right = { open = "", close = "" }
 # separator_style = { fg = "#3b4261", bg = "#3b4261" }
 
 # Progress
